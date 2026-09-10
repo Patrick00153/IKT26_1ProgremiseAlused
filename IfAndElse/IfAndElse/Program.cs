@@ -1,5 +1,3 @@
-﻿using System.Threading.Channels;
-
 namespace IfAndElse
 {
     //Projekti nimetusega IfAndElse, mille sees asub class nimega Program. Seeklass  sisaldab Main meetodit, mis on programmi sisenemispunkt
