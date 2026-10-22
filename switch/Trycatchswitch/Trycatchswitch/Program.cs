@@ -30,6 +30,7 @@ namespace Trycatchswitch
 
                 Console.WriteLine("palun sisesta number");
             }
+            //kui number on suurem kui int 32 bit-i
             catch (OverflowException)
             {
                 Console.WriteLine("number on liga suur");
